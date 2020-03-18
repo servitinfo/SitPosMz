@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762431880106",
+    "firebase_url": "https://sitposmz.firebaseio.com",
+    "project_id": "sitposmz",
+    "storage_bucket": "sitposmz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762431880106:android:dbd6b7c8462ee5d6a689d3",
+        "android_client_info": {
+          "package_name": "com.servitlda.sitposmz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762431880106-tvushetc7kef8q7epgejevdg29jocilm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_yqoiQappVsK-Qjns_T9iCYBriQP-Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762431880106-tvushetc7kef8q7epgejevdg29jocilm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

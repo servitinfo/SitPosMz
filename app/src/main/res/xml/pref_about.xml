@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen
+        android:title="@string/about"
+        android:summary="@string/about_summary">
+        <intent android:targetPackage="com.servitlda.sitposmz"
+            android:targetClass="com.servitlda.sitposmz.ui.AboutActivity"/>
+    </PreferenceScreen>
+</PreferenceScreen>
